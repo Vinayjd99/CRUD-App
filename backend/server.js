@@ -79,7 +79,6 @@ app.get("/read/:id", (req, res) => {
 
     db.query(sql, [id], (err, data) => {
         if (err) return res.json("Error");
-        console.log(data);
         return res.json(data);
     })
 })
