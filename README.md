@@ -1,4 +1,4 @@
-# GOQii_Assessment: CRUD App
+# CRUD App
 CRUD App using Reactjs and Nodejs
 
 ## Technologies used
